@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: black;
+
+}
+
+h1{
+    color:white;
+    
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: rgb(17, 17, 17);
+    text-align: center;
+  }
+
+canvas {
+    border: 1px black;
+}
